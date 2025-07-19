@@ -4,7 +4,7 @@
 Today, I explored the **Activity Lifecycle** and how to manage state using **ViewModel** in Android.
 
 ## 🛠 What I Built
-A simple yet functional **Counter App** that demonstrates:
+A simple yet functional **Sprint App** that demonstrates:
 - Understanding of lifecycle-aware components
 - Clean separation of UI and logic using ViewModel
 
