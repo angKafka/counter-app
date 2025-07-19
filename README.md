@@ -4,4 +4,4 @@
 ### Hence, created a basic Counter App (Using the basics)
 
 #### Demo
-![Demo](output.gif)
+![Demo](app/output.gif)
